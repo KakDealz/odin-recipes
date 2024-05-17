@@ -1,8 +1,9 @@
 * {
     font-family: 'Times New Roman', Times, serif;
     width: 800px;
-    margin: 0 auto;
-    padding: 0;
+    margin: 5px auto;
+    padding: 2px;
+    text-align: center;
 }
 
 h1 {
@@ -19,12 +20,16 @@ h2 {
     background-color: yellow;
 }
 
-ul, ol {
-    display: inline-block;
+ul, ol, p {
     border: 2px solid grey;
     background-color: azure;
+}
+
+ul, ol {
+    display: inline-block;
 }
 
 li {
     text-align: left;
 }
+
