@@ -16,6 +16,10 @@ h2 {
     background-color: yellow;
 }
 
+ul, ol {
+    display: inline-block;
+}
+
 li {
-    text-align:left;
+    text-align: left;
 }
