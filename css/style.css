@@ -8,6 +8,14 @@ h1 {
     background-color: lightgreen;
 }
 
+h2 {
+    background-color: aqua;
+}
+
 .recipe-link {
     background-color: yellow;
+}
+
+li {
+    text-align:left;
 }
