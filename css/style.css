@@ -1,15 +1,18 @@
 * {
     font-family: 'Times New Roman', Times, serif;
-    text-align: center;
-    
+    width: 800px;
+    margin: 0 auto;
+    padding: 0;
 }
 
 h1 {
     background-color: lightgreen;
+    border: 2px solid darkgreen;
 }
 
 h2 {
     background-color: aqua;
+    border: 2px solid darkblue;
 }
 
 .recipe-link {
@@ -18,6 +21,8 @@ h2 {
 
 ul, ol {
     display: inline-block;
+    border: 2px solid grey;
+    background-color: azure;
 }
 
 li {
