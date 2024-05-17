@@ -1,0 +1,13 @@
+* {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    
+}
+
+h1 {
+    background-color: lightgreen;
+}
+
+.recipe-link {
+    background-color: yellow;
+}
